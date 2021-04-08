@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an information systems engineer student in Germany, and I'm learning full-stack web development. the websites I have so far are my website [halim tech](http://www.halim.tech) , and the other is a project underconstruction notes app [HalNotes](https://sleepy-peak-89229.herokuapp.com/) To-Do there : *adding better UI Preferably using React
+  *adding register and login functionality
+  
+####📔 languages and framworks I use (the order is only for languages/frameworks that I like to use):
+*Javascript
+*nodeJS
+*Typescript
+*Express
+*NextJS
+*React
+*Python
+*Django
+*Java
+
+####🗃 Database Systems:
+*MongoDB
+*PostgreSQL
+
+###📦 DevOps/Deployment technologies:
+*Docker
+
+###🛠 Development Tools:
+*VSCode
+
+####🌱 Currently Learning and partially using in my projects:
+*GraphQL
+*Apollo Server & Client
