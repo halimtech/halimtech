@@ -36,6 +36,8 @@ I'm an information systems engineering student in Germany, and I'm learning full
 
 ### 📦 DevOps/Deployment technologies:
 * Docker
+* Heroku
+* DigitalOcean
 
 ### 🛠 Development Tools:
 * VSCode
