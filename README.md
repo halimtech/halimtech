@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an information systems engineering student in Germany, and I'm learning full-stack web development. the websites I have so far are my website [halim tech](http://www.halim.tech) , and the other is a project underconstruction notes app [HalNotes](https://sleepy-peak-89229.herokuapp.com/) To-Do there : 
+I'm an information systems engineering student in Germany, and I'm learning full-stack web development. the websites I have so far are my website [halim tech](https://halimtech.vercel.app/) , and the other is a project underconstruction notes app [HalNotes](https://sleepy-peak-89229.herokuapp.com/) To-Do there : 
   * adding better UI Preferably using React
   * adding register and login functionality
   
@@ -29,6 +29,8 @@ I'm an information systems engineering student in Germany, and I'm learning full
 * Python
 * Django
 * Java
+* GraphQL
+* Apollo Server & Client
 
 ### 🗃 Database Systems:
 * MongoDB
@@ -43,5 +45,5 @@ I'm an information systems engineering student in Germany, and I'm learning full
 * VSCode
 
 ### 🌱 Currently Learning and partially using in my projects:
-* GraphQL
-* Apollo Server & Client
+* RIOT OS
+* GPU Programming
