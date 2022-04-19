@@ -45,5 +45,4 @@ I'm an information systems engineering student in Germany, and I'm learning full
 * VSCode
 
 ### 🌱 Currently Learning and partially using in my projects:
-* RIOT OS
-* GPU Programming
+* IoT/RIOT OS
