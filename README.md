@@ -46,3 +46,8 @@ I'm an information systems engineering student in Germany, and I'm learning full
 
 ### 🌱 Currently Learning and partially using in my projects:
 * IoT/RIOT OS
+
+**Stats:**
+
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=halimtech&count_private=true&include_all_commits=true&theme=radical&show_icons=true" alt="halimtech" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halimtech&layout=compact&theme=radical" />
