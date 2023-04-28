@@ -25,6 +25,7 @@ I'm an information systems engineering student in Germany, and I'm learning full
 * Typescript
 * Express
 * NextJS
+* ReactNative
 * React
 * Python
 * Django
@@ -38,6 +39,7 @@ I'm an information systems engineering student in Germany, and I'm learning full
 
 ### 📦 DevOps/Deployment technologies:
 * Docker
+* Kubernetes
 * Heroku
 * DigitalOcean
 
@@ -45,7 +47,8 @@ I'm an information systems engineering student in Germany, and I'm learning full
 * VSCode
 
 ### 🌱 Currently Learning and partially using in my projects:
-* IoT/RIOT OS
+* Golang
+* AngularJS
 
 **Stats:**
 
