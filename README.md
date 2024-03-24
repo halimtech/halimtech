@@ -32,6 +32,9 @@ I'm an information systems engineering student in Germany, and I'm learning full
 * Java
 * GraphQL
 * Apollo Server & Client
+* Golang
+* Gin Framework
+* AngularJS
 
 ### 🗃 Database Systems:
 * MongoDB
@@ -47,9 +50,6 @@ I'm an information systems engineering student in Germany, and I'm learning full
 * VSCode
 
 ### 🌱 Currently Learning and partially using in my projects:
-* Golang
-* Gin Framework
-* AngularJS
 
 **Stats:**
 
